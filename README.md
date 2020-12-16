@@ -7,6 +7,15 @@
 
 <br>
 
+# 교육 선수 사항
+
+- 딥러닝의 개념 학습
+- python, numpy, pandas, matplotlib
+- data handling
+
+
+<br>
+
 # 일자별 계획
 
 ## 1일차
