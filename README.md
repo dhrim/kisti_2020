@@ -26,6 +26,7 @@
     - 흑백 영상 데이터 MNIST 영상분류 : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/cnn_mnist.ipynb)
     - CIFAR10 컬러영상분류 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/cnn_cifar10.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
+    - 실습 데이터 : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC
 - 영상 분할(Segementation)
     - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
     - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/mnet_segementation.ipynb)
@@ -47,4 +48,9 @@
     - 포즈 추출 실습 : [pose_extraction_using_open_pose.ipynb](material/deep_learning/pose_extraction_using_open_pose.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/pose_extraction_using_open_pose.ipynb)
     - web cam + colab 포즈 추출 실습 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/kisti_2020/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
 
+
 <br>
+
+# 기타
+
+- linux command : [material/library.md](material/library.md)
